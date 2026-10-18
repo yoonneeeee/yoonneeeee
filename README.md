@@ -9,7 +9,7 @@
 사업과 서비스에 필요한 일을 정리하고,<br>
 AI를 활용해 실제로 쓸 수 있는 도구와 웹서비스로 연결합니다.
 
-[대표 작업](#대표-작업) · [학습 기록](#학습-기록)
+[대표 작업](#대표-작업) · [학습 노트](#개발-기초-학습-노트)
 
 </div>
 
@@ -60,11 +60,11 @@ AI를 활용해 실제로 쓸 수 있는 도구와 웹서비스로 연결합니�
 
 [도구 사용하기 ↗](https://yoonneeeee.github.io/morningswimmer/nukki/) · [코드 보기](https://github.com/yoonneeeee/morningswimmer/tree/main/nukki)
 
-### 학습 기록
+### 개발 기초 학습 노트
 
 **Java · JDBC · Oracle SQL**
 
-기초 문법, 객체지향, 데이터베이스 연동과 SQL을 실습한 코드를 모았습니다.
+Java 기초 문법부터 객체지향, 데이터베이스 연동과 SQL까지 직접 실습하며 정리한 코드와 학습 기록입니다.
 
-[KH 교육과정 실습 기록 보기](https://github.com/yoonneeeee/KH)
+[개발 기초 학습 노트 보기](https://github.com/yoonneeeee/dev-study-notes)
 
