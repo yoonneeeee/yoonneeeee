@@ -31,6 +31,9 @@
 
 #### 01. ThinkWave | 씽크웨이브 회사 홈페이지
 
+**역할**<br>
+<img src="https://img.shields.io/badge/%EA%B8%B0%ED%9A%8D-2F6B5E?style=flat-square" alt="기획"> <img src="https://img.shields.io/badge/%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B5%AC%EC%84%B1-2F6B5E?style=flat-square" alt="페이지 구성"> <img src="https://img.shields.io/badge/AI%20%ED%99%9C%EC%9A%A9%20%EA%B5%AC%ED%98%84-2F6B5E?style=flat-square" alt="AI 활용 구현"> <img src="https://img.shields.io/badge/%EB%B0%B0%ED%8F%AC(Cloudflare%20Pages)-2F6B5E?style=flat-square" alt="배포(Cloudflare Pages)">
+
 회사와 사업을 소개하고, 고객 문의와 개발자 지원으로 이어지는 기업 홈페이지입니다.
 
 - 회사 소개, 사업 영역, 기술 · 솔루션, 주요 실적을 페이지별로 구성했습니다.
@@ -45,6 +48,9 @@
 
 > 사내 업무용 · 비공개 프로젝트
 
+**역할**<br>
+<img src="https://img.shields.io/badge/%EC%97%85%EB%AC%B4%20%EC%9A%94%EA%B5%AC%20%EC%A0%95%EB%A6%AC-2F6B5E?style=flat-square" alt="업무 요구 정리"> <img src="https://img.shields.io/badge/%EA%B8%B0%EB%8A%A5%20%EA%B8%B0%ED%9A%8D-2F6B5E?style=flat-square" alt="기능 기획"> <img src="https://img.shields.io/badge/AI%20%ED%99%9C%EC%9A%A9%20%EA%B5%AC%ED%98%84-2F6B5E?style=flat-square" alt="AI 활용 구현"> <img src="https://img.shields.io/badge/%EC%9A%B4%EC%98%81%20%EA%B0%9C%EC%84%A0-2F6B5E?style=flat-square" alt="운영 개선">
+
 개발자·프리랜서 정보를 관리하고 프로젝트 제안·지원 이력을 한곳에서 확인하기 위해 직접 만든 인재풀 관리 페이지입니다.
 
 - **기획 목적** — 반복적인 인재 정보 등록·조회·정리 업무를 줄이고, 인력 운영 흐름을 한곳에 모으기
@@ -56,6 +62,9 @@
 
 #### 03. 모닝스위머 | 손글씨 · 도장 누끼따기
 
+**역할**<br>
+<img src="https://img.shields.io/badge/%EA%B8%B0%ED%9A%8D-2F6B5E?style=flat-square" alt="기획"> <img src="https://img.shields.io/badge/%ED%99%94%EB%A9%B4%20%EC%84%A4%EA%B3%84-2F6B5E?style=flat-square" alt="화면 설계"> <img src="https://img.shields.io/badge/AI%20%ED%99%9C%EC%9A%A9%20%EA%B5%AC%ED%98%84-2F6B5E?style=flat-square" alt="AI 활용 구현"> <img src="https://img.shields.io/badge/%EB%B0%B0%ED%8F%AC(GitHub%20Pages)-2F6B5E?style=flat-square" alt="배포(GitHub Pages)">
+
 사진 속 손글씨나 도장을 문서에 넣기 쉽도록 배경을 투명하게 만드는 웹 도구입니다.
 
 - 진하기 기준, 글씨 색, 회전, 저장 범위를 조절하며 결과를 미리 확인할 수 있습니다.
@@ -65,12 +74,6 @@
 `HTML` `CSS` `JavaScript` `Canvas`
 
 [도구 사용하기 ↗](https://yoonneeeee.github.io/morningswimmer/nukki/) · [코드 보기](https://github.com/yoonneeeee/morningswimmer/tree/main/nukki)
-
----
-
-### 학습 기록
-
-**[개발 기초 학습 노트](https://github.com/yoonneeeee/dev-study-notes)** — Java 기초부터 객체지향, Oracle SQL, JDBC, Servlet·JSP까지 직접 실습하며 정리한 코드입니다.
 
 ---
 
