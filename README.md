@@ -36,19 +36,7 @@ AI를 활용해 실제로 쓸 수 있는 도구와 웹서비스로 연결합니�
 
 `업무 프로세스 기획` `AI 활용` `인재 정보 관리` `내부 도구`
 
-#### 02. 모닝스위머 | 손글씨 · 도장 누끼따기
-
-사진 속 손글씨나 도장을 문서에 넣기 쉽도록 배경을 투명하게 만드는 웹 도구입니다.
-
-- 진하기 기준, 글씨 색, 회전, 저장 범위를 조절하며 결과를 미리 확인할 수 있습니다.
-- 투명 PNG 저장과 이미지 복사를 지원합니다.
-- 이미지는 서버에 업로드하지 않고 **브라우저 안에서 처리**합니다.
-
-`HTML` `CSS` `JavaScript` `Canvas`
-
-[도구 사용하기 ↗](https://yoonneeeee.github.io/morningswimmer/nukki/) · [코드 보기](https://github.com/yoonneeeee/morningswimmer/tree/main/nukki)
-
-#### 03. ThinkWave | 씽크웨이브 회사 홈페이지
+#### 02. ThinkWave | 씽크웨이브 회사 홈페이지
 
 회사와 사업을 소개하고, 고객 문의와 개발자 지원으로 이어지는 기업 홈페이지입니다.
 
@@ -59,6 +47,18 @@ AI를 활용해 실제로 쓸 수 있는 도구와 웹서비스로 연결합니�
 `서비스 구성` `사용자 흐름` `정적 웹사이트`
 
 [홈페이지 보기 ↗](https://thinkwave.co.kr/)
+
+#### 03. 모닝스위머 | 손글씨 · 도장 누끼따기
+
+사진 속 손글씨나 도장을 문서에 넣기 쉽도록 배경을 투명하게 만드는 웹 도구입니다.
+
+- 진하기 기준, 글씨 색, 회전, 저장 범위를 조절하며 결과를 미리 확인할 수 있습니다.
+- 투명 PNG 저장과 이미지 복사를 지원합니다.
+- 이미지는 서버에 업로드하지 않고 **브라우저 안에서 처리**합니다.
+
+`HTML` `CSS` `JavaScript` `Canvas`
+
+[도구 사용하기 ↗](https://yoonneeeee.github.io/morningswimmer/nukki/) · [코드 보기](https://github.com/yoonneeeee/morningswimmer/tree/main/nukki)
 
 ### 학습 기록
 
